@@ -1,0 +1,7 @@
+** Introduction
+
+This is the [[http://GEUS.dk][GEUS]] Department of [[https://www.geus.dk/natur-og-klima/indlandsisen][Glaciology and Climate]] GitHub page.
+
+Useful links:
++ https://dataverse.geus.dk/
++ https://promice.org/
