@@ -2,7 +2,7 @@ Welcome to the [[http://GEUS.dk][GEUS]] Department of [[https://www.geus.dk/natu
 
 ** About our GitHub organisation
 
-GEUS-Glaciology-and-climate is used for developing and sharing our department's workflows, datasets, and ideas.
+GEUS-Glaciology-and-Climate is used for developing and sharing our department's workflows, datasets, and ideas.
 
 ** About Glaciology and Climate
 
