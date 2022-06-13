@@ -6,7 +6,7 @@ GEUS-Glaciology-and-Climate is used for developing and sharing our department's 
 
 ** About Glaciology and Climate
 
-Our department has more than 40 years of experience in glaciological field work and analysis. We are responsible for the monitoring of the mass loss from the Greenland Ice Sheet in the [[https://promice.dk/][Programme for Monitoring of the Greenland Ice Sheet (PROMICE)]] and the [[Greenland Climate Network][http://cires1.colorado.edu/steffen/gcnet/]], and in that connection we operate an extensive network of weather stations on the ice sheet.
+Our department has more than 40 years of experience in glaciological field work and analysis. We are responsible for the monitoring of the mass loss from the Greenland Ice Sheet in the [[https://promice.dk/][Programme for Monitoring of the Greenland Ice Sheet (PROMICE)]] and the [[http://cires1.colorado.edu/steffen/gcnet/][Greenland Climate Network]]. In that connection, we operate an extensive network of weather stations on the ice sheet.
 
 ** Useful links
 + https://dataverse.geus.dk/
