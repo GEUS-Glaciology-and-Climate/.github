@@ -1,7 +1,14 @@
-** Introduction
+Welcome to the [[http://GEUS.dk][GEUS]] Department of [[https://www.geus.dk/natur-og-klima/indlandsisen][Glaciology and Climate]] GitHub page.
 
-This is the [[http://GEUS.dk][GEUS]] Department of [[https://www.geus.dk/natur-og-klima/indlandsisen][Glaciology and Climate]] GitHub page.
+** About our GitHub organisation
 
-Useful links:
+GEUS-Glaciology-and-Climate is used for developing and sharing our department's workflows, datasets, and ideas.
+
+** About Glaciology and Climate
+
+Our department has more than 40 years of experience in glaciological field work and analysis. We are responsible for the monitoring of the mass loss from the Greenland Ice Sheet in the [[https://promice.dk/][Programme for Monitoring of the Greenland Ice Sheet (PROMICE)]] and the [[http://cires1.colorado.edu/steffen/gcnet/][Greenland Climate Network]]. In that connection, we operate an extensive network of weather stations on the ice sheet.
+
+** Useful links
 + https://dataverse.geus.dk/
-+ https://promice.org/
++ https://promice.dk/
++ http://cires1.colorado.edu/steffen/gcnet/
