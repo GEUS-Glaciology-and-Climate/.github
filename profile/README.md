@@ -10,11 +10,11 @@ Our department has more than 40 years of experience in glaciological field work 
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Procedures for GEUS Dataverse AWS data releases](https://geus-glaciology-and-climate.github.io/guides/aws-dataverse-release-checklist/)
 - [Things to do before and after a new pypromice release](https://geus-glaciology-and-climate.github.io/guides/pypromice-release-checklist/)
 - [Monitoring and alerting](https://geus-glaciology-and-climate.github.io/guides/monitoring-and-alerting/)
 - [Accessing data at the THREDDS Data Server](https://geus-glaciology-and-climate.github.io/guides/accessing-data-at-thredds/)
 - [THREDDS Data Server: background and guide](https://geus-glaciology-and-climate.github.io/guides/thredds-data-server/)
-- [WMO BUFR processing: background and guide](https://geus-glaciology-and-climate.github.io/guides/wmo-bufr-processing/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Useful links
