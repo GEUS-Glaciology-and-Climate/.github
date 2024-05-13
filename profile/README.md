@@ -10,11 +10,11 @@ Our department has more than 40 years of experience in glaciological field work 
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS data checklist whilst in the field](https://geus-glaciology-and-climate.github.io/guides/aws-data-checklist-whilst-in-the-field/)
 - [Using the Synoptic API service to retreive GEUS data](https://geus-glaciology-and-climate.github.io/guides/using-synoptic-api/)
 - [Procedures for GEUS Dataverse AWS data releases](https://geus-glaciology-and-climate.github.io/guides/aws-dataverse-release-checklist/)
 - [Things to do before and after a new pypromice release](https://geus-glaciology-and-climate.github.io/guides/pypromice-release-checklist/)
 - [Monitoring and alerting](https://geus-glaciology-and-climate.github.io/guides/monitoring-and-alerting/)
-- [Accessing data at the THREDDS Data Server](https://geus-glaciology-and-climate.github.io/guides/accessing-data-at-thredds/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Useful links
